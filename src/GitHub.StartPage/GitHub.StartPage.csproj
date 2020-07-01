@@ -97,7 +97,7 @@
       <Version>15.8.75-pre</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.SDK.Analyzers">
-      <Version>15.8.33</Version>
+      <Version>16.6.11</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VSSDK.BuildTools">
       <Version>15.8.3252</Version>
