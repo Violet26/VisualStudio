@@ -8,7 +8,7 @@
   <Import Project="$(SolutionDir)\src\common\signing.props" />
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.6.1" />
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.3.2" />
   </ItemGroup>
 
   <ItemGroup>
