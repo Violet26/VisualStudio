@@ -282,7 +282,7 @@
   <ItemGroup>
     <PackageReference Include="LibGit2Sharp" Version="0.26.0" />
     <PackageReference Include="Markdig.Wpf.Signed">
-      <Version>0.2.1</Version>
+      <Version>0.5.0.1</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.SDK.Analyzers">
       <Version>15.8.36</Version>
