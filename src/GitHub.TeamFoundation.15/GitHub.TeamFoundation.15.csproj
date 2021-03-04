@@ -213,7 +213,7 @@
     </PackageReference>
     <PackageReference Include="LibGit2Sharp" Version="0.26.0" />
     <PackageReference Include="Microsoft.VisualStudio.ComponentModelHost">
-      <Version>14.0.25424</Version>
+      <Version>16.9.227</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Threading">
       <Version>14.1.131</Version>
